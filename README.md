@@ -29,6 +29,6 @@ footer{padding:40px;color:#445588}
 <div class="card"><span>YOUR PHOTO 2</span></div>
 <div class="card"><span>YOUR PHOTO 3</span></div>
 </div>
-<footer><p>© 2026 REMZ CLOUD — Port Harcourt Photography Studio</p></footer>
+<footer><p>© 2026 REMZ CLOUD — Nigeria Photography Studio</p></footer>
 </body>
 </html>
